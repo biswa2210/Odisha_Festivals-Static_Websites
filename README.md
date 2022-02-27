@@ -1,5 +1,4 @@
-# Odisha_Festivals-Static_Websites
-# ODISHA-FESTIVALS :star_struck: :family: :man: :woman: :sunny:
+# Odisha_Festivals-Static_Websites :star_struck: :family: :man: :woman: :sunny:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
 
@@ -33,7 +32,7 @@ This is a website created by HTML only. Here are total five parts and introducti
  - Lok Utsav(Nabanna)<br>
  </details>
 
-## LINK of full project: :point_right: https://biswa2210.github.io/ODISHA-FESTIVALS/. 
+## LINK of full project: :point_right: . 
 
 ## Purpose :point_down:
 
