@@ -79,12 +79,12 @@ I have made this website with HTML5 only. For references for Orisha and Orisha's
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="odi1.PNG"><img src="odi1.PNG" width="400" height= "300"></a> <a href="odi2.PNG"><img src="odi2.PNG" width="400" height= "300"></a>
+<a href="odi1.png"><img src="odi1.png" width="400" height= "300"></a> <a href="odi2.png"><img src="odi2.png" width="400" height= "300"></a>
 
-<a href="odi3.PNG"><img src="odi3.PNG" width="400" height= "300"></a> <a href="odi4.PNG"><img src="odi4.PNG" width="400" height= "300"></a>
+<a href="odi3.png"><img src="odi3.png" width="400" height= "300"></a> <a href="odi4.png"><img src="odi4.png" width="400" height= "300"></a>
 
-<a href="odi5.PNG"><img src="odi5.PNG" width="800" height= "300"></a>
+<a href="odi5.png"><img src="odi5.png" width="800" height= "300"></a>
 </div>
 
 
-
+png
