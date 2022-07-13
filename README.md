@@ -79,11 +79,11 @@ I have made this website with HTML5 only. For references for Orisha and Orisha's
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="ori1.PNG"><img src="ori1.PNG" width="400" height= "300"></a> <a href="ori2.PNG"><img src="ori2.PNG" width="400" height= "300"></a>
+<a href="odi1.PNG"><img src="odi1.PNG" width="400" height= "300"></a> <a href="odi2.PNG"><img src="odi2.PNG" width="400" height= "300"></a>
 
-<a href="ori3.PNG"><img src="ori3.PNG" width="400" height= "300"></a> <a href="ori4.PNG"><img src="ori4.PNG" width="400" height= "300"></a>
+<a href="odi3.PNG"><img src="odi3.PNG" width="400" height= "300"></a> <a href="odi4.PNG"><img src="odi4.PNG" width="400" height= "300"></a>
 
-<a href="ori5.PNG"><img src="ori5.PNG" width="800" height= "300"></a>
+<a href="odi5.PNG"><img src="odi5.PNG" width="800" height= "300"></a>
 </div>
 
 
