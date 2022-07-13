@@ -32,7 +32,7 @@ This is a website created by HTML only. Here are total five parts and introducti
  - Lok Utsav(Nabanna)<br>
  </details>
 
-## LINK of full project: :point_right: . 
+## LINK of full project: :point_right: https://biswa2210.github.io/Odisha_Festivals-Static_Websites/. 
 
 ## Purpose :point_down:
 
