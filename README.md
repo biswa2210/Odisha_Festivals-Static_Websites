@@ -32,6 +32,10 @@ This is a website created by HTML only. Here are total five parts and introducti
  - Lok Utsav(Nabanna)<br>
  </details>
 
+## ODISHA FESTIVALS DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=Br48b1bPa6o&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=6">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## LINK of full project: :point_right: https://biswa2210.github.io/Odisha_Festivals-Static_Websites/. 
 
 ## Purpose :point_down:
